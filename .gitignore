@@ -5,3 +5,8 @@ work
 .settings
 .classpath
 .project
+
+# Idea project files
+.idea
+mask-passwords.iml
+.DS_Store
